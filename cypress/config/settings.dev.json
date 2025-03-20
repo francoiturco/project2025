@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://www.mercadolibre.com.ar/",
+    "fixturesFolder": "cypress/fixtures/dev",
+    "env": {
+        "loginPage": "",
+        "user": "",
+        "password": ""
+    }
+}

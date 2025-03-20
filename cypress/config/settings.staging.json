@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://dummyjson.com/",
+    "fixturesFolder": "cypress/fixtures/staging",
+    "env": {
+        "loginPage": "",
+        "user": "",
+        "password": ""
+    }
+}
